@@ -1,10 +1,10 @@
 # Chap 1. Your First Core Data App
 
-## ㅁ 챕터 1에서 배울 내용
+## ㅁ Todo
 - Model data using Xcode’s model editor
 - Add new records to Core Data
 - Fetch a set of records from Core Data
-- Display the fetched records using a table view.
+- Display the fetched records using a table view
 
 
 ## ㅁ Important contents
